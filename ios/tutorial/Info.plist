@@ -51,5 +51,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+      <key>NSPhotoLibraryUsageDescription</key>
+      <string>Tutorial app needs access to your pictures so you can upload pictures to the app.</string>
 </dict>
 </plist>
